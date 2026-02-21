@@ -38,4 +38,4 @@ modebtn.addEventListener("click", () => {
     body.classList.remove("dark");
    }   
     console.log(currMode);
-});
+}); 
